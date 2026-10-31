@@ -1,0 +1,207 @@
+*{
+margin: 0%;
+padding: 0;
+}
+nav .nav_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+    text-align: center;
+}
+nav button{
+    padding: 16px 40px;
+    background-color: rgb(70, 70, 255);
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+nav .nav_top div{
+    font-size: 25px;
+}
+
+
+nav button{
+    padding: 16px 40px;
+border-radius: 16px;
+color: white;
+font-size: 15px;
+    background-color: rgb(70, 70, 255);
+}
+nav .nav_top input{
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: 17px  100px  17px 17px;
+}
+nav .nav_top .qidirish{
+    margin-left: -90px;
+}
+
+nav .nav_button {
+    display: flex;
+    font-size: 20px;
+    height: 70px;
+    justify-content: space-evenly;
+    align-items: center ;
+}
+
+main{
+    position: relative;
+}
+
+
+main .eheh{
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 90px;
+    right: 50px;
+    border: 2px solid blue;
+    background-color: transparent;
+}
+
+main .card{
+    width: 270px;
+    height: 300px;
+    position: absolute;
+    right: 50px;
+    top: 220px;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+main .card div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 2px solid blue;
+    background-color: rgb(66, 66, 255);
+    color: white;
+}
+
+
+
+main .card h2{
+    background-color: rgb(66, 66, 255);
+    padding: 10px;
+    color: white;
+}
+
+
+main .card .box2{
+    padding-top: 20px;
+    background-color: white;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+main .card .box2 button{
+    padding: 15px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(204, 219, 255);
+    width: 100%;
+} 
+
+
+main .card .box2  .tugma3{
+    background-color: rgb(66, 66, 255);
+    color: white;
+}
+
+main .card .rasmdiv{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 18px;
+}
+
+main{
+   position: relative;
+}
+
+main .savatcha{
+    width: 500px;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between  ;
+    border: 3px solid blue;
+    font-size: 20px;
+   position: absolute;
+   right: 500px;
+   top: -70px;
+background-color: rgb(140, 140, 255);
+}
+
+
+main .savatcha  button{
+    height: 70px;
+    width: 490px;
+    border-radius: 8px;
+    font-size: 20px;
+
+}
+main .savatcha div{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+    gap: 300px;
+}
+
+
+
+
+main .savatcha .btn1{
+    background-color: rgb(27, 27, 238);
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
